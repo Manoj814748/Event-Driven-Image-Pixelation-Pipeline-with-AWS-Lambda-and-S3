@@ -3,7 +3,6 @@ This project demonstrates how to build an automated, event-driven image processi
 
 ![Serverless Projects](https://github.com/user-attachments/assets/f2c51dcb-bd13-4bb4-9f7b-886915732272)
 
-## What You Will Learn:
 * AWS Lambda Event-Driven Architecture: How to trigger Lambda functions in response to S3 events.
 * Image Processing with Python (Pillow Library): Techniques for manipulating images, including pixelation.
 * S3 Bucket Operations: How to manage objects across multiple S3 buckets, including permissions and event notifications.
